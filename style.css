@@ -51,6 +51,9 @@ body {
   font-size: 1.3em;
   height: 0.8em;
 }
+h6 {
+  background-color: aliceblue;
+}
 #searchBar ion-icon {
   font-size: 2em;
 }
