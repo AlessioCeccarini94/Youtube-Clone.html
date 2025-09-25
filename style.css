@@ -58,11 +58,9 @@ body {
   cursor: pointer;
 }
 #content {
+  flex-wrap: wrap;
   display: flex;
-  width: 100%;
-  height: 100%;
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  justify-content: center;
   gap: 20px;
 }
 
